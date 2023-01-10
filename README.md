@@ -1,0 +1,12 @@
+# py-ai-target-hit-detection
+Python based AI for detecting hits to a target in competitive target shooting.
+
+work in progress and im using this to learn how to use computer vision AI
+
+base version will include the ability to detect hits on a metal or paper target from any camera angle
+
+later:
+the ability to count score with the script
+automated shot detection (through microphone input) and shot timing
+
+im working on it lol <3
