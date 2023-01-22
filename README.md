@@ -10,3 +10,8 @@ the ability to count score with the script
 automated shot detection (through microphone input) and shot timing
 
 im working on it lol <3
+
+progress:
+camera feed intake: 0/10
+visual processing: --/10
+hit tracking and vizualization: --/10
