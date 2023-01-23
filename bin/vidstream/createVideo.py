@@ -4,12 +4,12 @@ import time
 
 filename = "streamSession_" + str(time.time()) + ".mp4"
 
-def startStream():
+def createVideo():
     # create empty video file
     vid = open('bin/vidstream/' + filename, mode='w')
     try:
        vid.write('placeholder')
     except:
-        print('yea that dont work')
+        print('Something happened, and the file could not be written.')
     finally:
-        print('done, fuck you python')
+        pass
