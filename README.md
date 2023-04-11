@@ -1,4 +1,4 @@
-# py-ai-target-hit-detection
+# py-ai-target-hit-detection / on hold :(
 Python based AI for detecting hits to a target in competitive target shooting.
 
 Program dependencies:
